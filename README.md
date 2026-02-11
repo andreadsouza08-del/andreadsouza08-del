@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, welcome to ANSEL WEB SOLUTIONS FZE 👋
 
-<!--
-**andreadsouza08-del/andreadsouza08-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a **Privacy-First Web Development Company** based in **Sharjah, UAE**. We specialize in building secure, high performance SaaS tools for the modern web.
 
-Here are some ideas to get you started:
+### 🚀 Flagship Product
+**[Slk.me](https://slk.me)** — *The Secure URL Shortener & Encrypted Note Service.*
+> A privacy-focused tool to shorten URLs and send self-destructing, encrypted notes. No tracking. No ads. Just security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Features of Slk.me:**
+* 🔐 **AES-256 Encryption:** Your data is encrypted before it hits the database.
+* 🔥 **Burn After Reading:** Notes are permanently wiped after viewing.
+* ⚡ **NVMe Fast Redirects:** Hosted on high-performance VPS infrastructure.
+
+---
+
+### 🛠️ Tech Stack & Expertise
+* **Backend:** PHP 8.2 (Optimized for Speed & Security)
+* **Database:** MySQL / MariaDB
+* **Infrastructure:** Linux VPS Administration
+* **Security:** SSL/TLS, DDOS Protection, Strict Privacy Protocols
+
+---
+
+### 📫 Contact & Support
+* **Official Website:** [https://anselwebsolutions.com](https://anselwebsolutions.com)
+* **Our Tool:** [https://slk.me](https://slk.me)
+* **Location:** Sharjah, United Arab Emirates
