@@ -3,7 +3,7 @@
 We are a **Privacy First Web Development Company** based in **Sharjah, UAE**. We specialize in building secure, high performance SaaS tools for the modern web.
 
 ### 🚀 Flagship Product
-**[Slk.me](https://slk.me)** — *The Secure URL Shortener & Encrypted Note Service.*
+**[Slk.me](https://slk.me)**  *The Secure URL Shortener & Encrypted Note Service.*
 > A privacy focused tool to shorten URLs and send self-destructing, encrypted notes. No tracking. No ads. Just security.
 
 **Core Features of Slk.me:**
